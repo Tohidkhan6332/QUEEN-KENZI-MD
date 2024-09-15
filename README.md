@@ -1,15 +1,15 @@
 <br>
 
-### 🇱🇰 𝐐𝐔𝐄𝐄𝐍 𝐊𝐄𝐍𝐙𝐈 𝐌𝐃
+### 🇮🇳 𝐓𝐎𝐇𝐈𝐃 𝐊𝐇𝐀𝐍 𝐌𝐃
 ### SETUP
 ---
 //========DO-NOT-CHANGE-ALIVE-MSG========
 ---
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+QUEEN+KENZI+MD+v1+WHATSAPP+BOT;MADE+BY+DARKNEONCYBERS+TEAM)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+TOHID+KHAN+MD+v1+WHATSAPP+BOT;MADE+BY+DARKTOHIDCYBERS+TEAM)](https://git.io/typing-svg)
 ---
 1. Fork The Repo
     <br>
-<a href="https://github.com/shashikalanipuni05/mmmmmm/fork"><img title="QUEEN-KENZI-MD" src="https://img.shields.io/badge/FORK QUEEN-KENZI-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/shashikalanipuni05/mmmmmm/fork"><img title="TOHID-KHAM-MD" src="https://img.shields.io/badge/FORK TOHID-KHAN-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 ![forks](https://img.shields.io/github/forks/shashikalanipuni05/mmmmmm?label=Forks&style=social)
 
