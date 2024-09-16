@@ -24,7 +24,7 @@
 
   <p align="center">  
   <a href="https://telegra.ph/file/02901a37c157fa1352aef.jpg">
-    <img alt="queen-kenzi" height="200" src="https://telegra.ph/file/02901a37c157fa1352aef.jpg">
+    <img alt="Tohid-khan" height="200" src="https://telegra.ph/file/02901a37c157fa1352aef.jpg">
     
   < Loading...
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -32,7 +32,7 @@
 ---
 #### Deploy To Replit
 
-<a href="https://replit.com"><img title="QUEEN-KENZI Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
+<a href="https://replit.com"><img title="TOHID-KHAN Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
 ---
 ## Deploy to HEROKU ↓
 
@@ -50,7 +50,7 @@
 
 ---
 
-`UPLOAD creds.js FILE TO Kenzi_md FOLDER👆`
+`UPLOAD creds.js FILE TO Tohid_md FOLDER👆`
 ---
 
 
@@ -135,7 +135,7 @@ jobs:
 
 
 ## CREDITS 
-<a href="https://wa.me/message/DNN5ZGDNMOH6K1"><img src="https://telegra.ph/file/08ce20a843b7650a296e7.jpg" alt="LOGIN WITH PAIR CODE" height="90" width="90"></a>
+<a href="https://wa.me/message/JYETC3FKIMQTI1"><img src="https://telegra.ph/file/08ce20a843b7650a296e7.jpg" alt="LOGIN WITH PAIR CODE" height="90" width="90"></a>
 ---
 ### CREATED BY:
 1. ### Danu.Xz
@@ -144,8 +144,8 @@ jobs:
 
 ## MY YT CHANNEL
 
-[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@danuxzz?si=__tcNbJtNcE6mJcN) 
+[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@Tohidkhan_6332?si=__tcNbJtNcE6mJcN) 
  
  ### WHATSAPP CHANNLE 👇
- "https://whatsapp.com/channel/0029Va8f3smKWEKvPUzXQv34"
+ "https://whatsapp.com/channel/0029VaGyP933bbVC7G0x0i2T"
 
