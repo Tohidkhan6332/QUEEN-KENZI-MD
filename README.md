@@ -5,7 +5,7 @@
 ---
 //========DO-NOT-CHANGE-ALIVE-MSG========
 ---
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+TOHID+KHAN+MD+v1+WHATSAPP+BOT;MADE+BY+DARKTOHIDCYBERS+TEAM)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+TOHID+KHAN+MD+v1+WHATSAPP+BOT;MADE+BY+MRTOHID+TEAM)](https://git.io/typing-svg)
 ---
 1. Fork The Repo
     <br>
@@ -19,12 +19,12 @@
 
 
 <br>
-• Sri Lanka Best and fast whatsapp bot
+• Tohid md  Best and fast whatsapp bot
 <br>
 
   <p align="center">  
   <a href="https://telegra.ph/file/02901a37c157fa1352aef.jpg">
-    <img alt="Tohid-khan" height="200" src="https://telegra.ph/file/02901a37c157fa1352aef.jpg">
+    <img alt="Tohid-khan" height="200" src="https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg">
     
   < Loading...
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -84,7 +84,7 @@ npm install
 npm start
 ```
 ---
-  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=008000&lines=HOW+TO+DEVOLP+BY;MADE+BY+CYBER+TECH+TEAM..)](https://git.io/typing-svg)
+  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=008000&lines=HOW+TO+DEVOLP+BY;MADE+BY+TOHID+TECH+TEAM..)](https://git.io/typing-svg)
    
    ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F008000&lines=1.+Fork+This+Repo)](https://github.com/nipuna15)
    ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F008000&lines=2.+Scan+QR+Code+Or+Pair+code)](https://github.com/nipuna15)
